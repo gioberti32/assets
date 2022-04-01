@@ -1,0 +1,9 @@
+    "name": "Madecoin",
+    "website": "https://madecoin.org/",
+    "description": "Madecoin is a coin etico in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0xd01613f4da25d4d82e0166b06df49d698a0cd6f4",
+    "type": "BEP20",
+    "symbol": "MADE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xd01613F4Da25D4d82e0166b06DF49D698A0CD6F4"
